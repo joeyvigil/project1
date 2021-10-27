@@ -1,16 +1,16 @@
 
-#Project 1: Expense Reimbursement System
+# Project 1: Expense Reimbursement System
 
-##Executive Summary
+## Executive Summary
 
 The Expense Reimbursement System (ERS) will manage the process of reimbursing employees for expenses incurred while on company time. All employees in the company can login and submit requests for reimbursement and view their past tickets and pending requests. Finance managers can log in and view all reimbursement requests and past history for all employees in the company. Finance managers are authorized to approve and deny requests for expense reimbursement.
 
 
-##Reimbursement Types
+## Reimbursement Types
 
 Employees must select the type of reimbursement as: LODGING, TRAVEL, FOOD, or OTHER.
 
-##Technical Requirements
+## Technical Requirements
 ● The application shall employ the DAO design pattern, and properly separate your code into the appropriate layers
 
 ● The back-end system shall use JDBC to connect to an PostgreSQL Database.
@@ -33,7 +33,7 @@ database
 ● The application will send an email to employees letting them know that they have been registered as a new user, giving them their temporary password(optional)
 
 
-##Dates
+## Dates
 
 ● 10/6/2021 start: project 1 specs released
 
